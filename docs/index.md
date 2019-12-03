@@ -4,8 +4,8 @@ layout: page
 
 # Overview
 
-<img class="overview-image" src="">
+<!-- img class="overview-image" src="" -->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+This chapter is an introduction to wired networking.
 
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
